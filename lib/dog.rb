@@ -12,7 +12,7 @@ class Dog
 
 
 def bark 
-  bark = "woof!"
+  "woof!"
 end 
-bark
+
 end
