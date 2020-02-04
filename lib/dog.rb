@@ -1,8 +1,8 @@
 # Your code goes here!
 class Dog 
-  @@name = Fido
+  
   def name=(name)
-    @@name
+    @name = name
   end
 
  
